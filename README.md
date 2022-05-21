@@ -1,16 +1,4 @@
 # fittedbox
 
-A new Flutter application.
+![Screenshot_20220521_210433](https://user-images.githubusercontent.com/65672919/169661943-5dd449e0-f42b-4eff-ac8c-ffe6f5654f4a.png)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
